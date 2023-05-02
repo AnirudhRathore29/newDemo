@@ -4,7 +4,7 @@ os: ubuntu
 
 files:
   - source: /
-    destination: /home/ec2-user/serve
+    destination: /home/ubuntu/serve
 
 permissions:
   - object: /
