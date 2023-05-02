@@ -4,7 +4,7 @@ os: ubuntu
 
 files:
   - source: /
-    destination: /home/ubuntu/server*
+    destination: /home/ubuntu/server
 
 permissions:
   - object: /
